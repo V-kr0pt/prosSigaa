@@ -1,0 +1,163 @@
+1597724469499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewtEktb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597724479793	Marionette	INFO	Listening on port 46841
+1597724479830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597724488504	Marionette	INFO	Stopped listening on port 46841
+1597724520429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaSmjZa"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597724526746	Marionette	INFO	Listening on port 34055
+1597724526766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597724608669	Marionette	INFO	Stopped listening on port 34055
+1597724620643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilediljyK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597724625280	Marionette	INFO	Listening on port 32771
+1597724625360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597724736857	Marionette	INFO	Stopped listening on port 32771
+1597725505497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqc5Wdm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597725509908	Marionette	INFO	Listening on port 40369
+1597725509933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597725522504	Marionette	INFO	Stopped listening on port 40369
+1597725546007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile294IOc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597725550201	Marionette	INFO	Listening on port 41209
+1597725550232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597725579011	Marionette	INFO	Stopped listening on port 41209
+1597725602334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0WTJFd"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597725606688	Marionette	INFO	Listening on port 38421
+1597725606752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597725685030	Marionette	INFO	Stopped listening on port 38421
+1597725685859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1VGbor"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597725690737	Marionette	INFO	Listening on port 37619
+1597725690780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597725806479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq4xypR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597725811304	Marionette	INFO	Listening on port 46351
+1597725811391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597726195432	Marionette	INFO	Stopped listening on port 46351
+1597726203218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepOXN82"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597726208271	Marionette	INFO	Listening on port 43729
+1597726208338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+1597726237400	Marionette	INFO	Stopped listening on port 43729
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1597726704641	Marionette	INFO	Stopped listening on port 37619
+1597958480145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegNkeUe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597958492806	Marionette	INFO	Listening on port 40379
+1597958492989	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597958519225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuEwUno"
+1597958521587	Marionette	INFO	Stopped listening on port 40379
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597958527978	Marionette	INFO	Listening on port 36381
+1597958528049	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597958635970	Marionette	INFO	Stopped listening on port 36381
+1597958721243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJNwAvj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597958726885	Marionette	INFO	Listening on port 45061
+1597958726964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1597959572809	Marionette	INFO	Stopped listening on port 45061
+1597959576427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewF31Ow"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597959582420	Marionette	INFO	Listening on port 40883
+1597959582443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:417:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+1597960073421	Marionette	INFO	Stopped listening on port 40883
+1597970916251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQZw0cX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597970923810	Marionette	INFO	Listening on port 40715
+1597970923886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597970949133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1xRYuD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597970955285	Marionette	INFO	Listening on port 33035
+1597970955351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597970967029	Marionette	INFO	Stopped listening on port 40715
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:113:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:417:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 113, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 113))
+1597971535739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBoSscP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597971542779	Marionette	INFO	Listening on port 39569
+1597971542870	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sigaa.ufpb.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://sigaa.ufpb.br"
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+1598043954182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3bnd24"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598043961454	Marionette	INFO	Listening on port 40827
+1598043961577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+1598044079544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIPh2QZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598044084380	Marionette	INFO	Listening on port 35629
+1598044084470	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598044103717	Marionette	INFO	Stopped listening on port 35629
+1598044108801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZIz3u7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598044113508	Marionette	INFO	Listening on port 44919
+1598044113519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+1598044392655	Marionette	INFO	Stopped listening on port 44919
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598046157785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoYdgrr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598046162521	Marionette	INFO	Listening on port 40445
+1598046162623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+1598046536065	Marionette	INFO	Stopped listening on port 40445
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598100023146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGB2pNJ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598100039750	Marionette	INFO	Listening on port 42081
+1598100039898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
+1598100340654	Marionette	INFO	Stopped listening on port 42081
+1598100346418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyhmEnE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598100350729	Marionette	INFO	Listening on port 40341
+1598100350743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sigaa.ufpb.br/sigaa/shared/beta/js/bootstrap.js, line 437: TypeError: $next[0] is undefined
